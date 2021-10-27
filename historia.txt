@@ -1,5 +1,7 @@
 Este es un archivo de prueba.
 
-Para la clase de platzi.
+Para las clases de platzi.
+
+Vamos a validar los cambios
 
 Vamos a hablar un poco de historia.
